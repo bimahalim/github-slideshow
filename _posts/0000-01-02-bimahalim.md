@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I hope u doing well and dont forget to feed ur cat
 Use the left arrow to go back!
